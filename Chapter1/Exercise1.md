@@ -9,6 +9,8 @@
 
 
 
+
+
 ####1.2 判断两个字符串是否为变位字符串 你能提出最糟糕的，性能弹性非常大的解决方案是什么？
 
 变位例子：  "debit card" 和 " bad credit"
@@ -18,4 +20,8 @@ leetcode 题目： [valid-anagram](https://leetcode.com/problems/valid-anagram/)
 python解法解析： [valid-anagram](valid-anagram.py)
 
 
-最糟糕的解法：   拿一个字符串中的每一个元素去遍历查找另一个字符串中是否存在这个元素，这个解法随着字符串的规模增大而效率越低
+
+
+最糟糕的解法:
+
+拿一个字符串中的每一个元素去遍历查找另一个字符串中是否存在这个元素，这个解法随着字符串的规模增大而效率越低
