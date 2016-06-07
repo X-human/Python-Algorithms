@@ -1,11 +1,13 @@
 ##Python-Algorithms
 
-"Python Algorithms—Mastering Basic Algorithms in the Python Language"
+"Python Algorithms: Mastering Basic Algorithms in the Python Language"
 
 
-##目录
-- 第1章  引言
-- 第2章  基础知识
+
+
+##Python算法教程
+- [第1章  引言](/Chapter1)
+- [第2章  基础知识](/Chapter2)
 - 第3章  计数初步
 - 第4章  归纳，递归及归简
 - 第5章  遍历：算法学中的万能钥匙
